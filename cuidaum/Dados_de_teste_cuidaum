@@ -1,0 +1,47 @@
+Medicos:
+
+Manel,123456789,2345678,1980-12-30,001,psiquiatria,manel@cuidaum.pt
+Sabrina,123456789,2345678,2000-06-30,002,pneumologia,sabrina@cuidaum.pt
+
+Funcionário:
+
+Gertrudes,123456789,12345678,1956-07-21,001
+Idalino,123456789,12345678,1958-02-12,002
+
+Medicamentos:
+
+Aacifemine,Estriol,2 mg
+Abacavir Accord,Abacavir,0.5 mg
+Fluoxetine,N-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine,60 mg
+
+Utentes:
+
+Luís,241637341,14422517,2002-06-18,001,910410666,914504925,luiscunhadrawings@gmail.com,Rua do Nascente n38 Gualtar Braga
+Miguel,888888888,88888888,2001-03-05,002,924234160,962875653,miguelbacvale@gmail.com,Rua Pascoal Fernandes n11 5D São Vítor Braga
+Casimiro,777777777,77777777,1980-05-06,003,910000000,911000000,casimiroreal@outlook.com,Rua José António Cruz n120 5.1 São Vítor Braga
+Filipa,666666666,66666666,1980-03-13,004,912000000,913000000,filipareal@outlook.com,Rua José António Cruz n120 5.1 São Vítor Braga
+
+Medições:
+
+001,129,1.77,130,98
+002,81,1.81,100,97
+003,60,1.62,60,91
+004,61,1.57,85,95
+
+Familiares do utente 001:
+
+Margarida,111111111,11111111,1969-06-20,914504925,mãe
+Paulo,222222222,22222222,1970-01-11,939365051,pai
+
+Consultas do utente 001:
+
+001,001,apresenta problemas depressivos
+002,001,apresenta problemas respiratórios
+
+Exames do utente 001:
+
+001,2,registo poligráfico do sono,o paciente levou o equipamento para analisar o seu sono durante a noite,apneia do sono ligeira
+
+Prescrições do utente 001:
+
+001,1,3,tomar de manhã,indeterminado
